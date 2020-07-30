@@ -3,7 +3,7 @@
 Bem vindo ao projeto final do grupo 4 do processo trainee da TITAN! Abaixo alguns passos para você conseguir rodar o projeto na sua máquina
 
 ## Bibliotecas e arquivos necessários
-Primeiramente vamos assumir que você já tem o Python e o gerenciador de pacotes pip lindamente instalados na sua máquina, vamos lá:
+Primeiramente vamos assumir que você já tem o Python e o gerenciador de pacotes pip instalados na sua máquina, vamos lá:
 
 * Instale o flask com _pip install Flask_
 
